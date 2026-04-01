@@ -7,7 +7,7 @@ Projeto de backend para um site com a temática "desastres naturais e meio ambie
 - Gerenciador de exceções global
 - Respostas JSON padronizadas
 
-## Respostas da API
+## Respostas da API ↩️
 As respostas da API foram padronizadas conforme o exemplo abaixo:
 
 ```json
