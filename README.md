@@ -1,11 +1,11 @@
 ## Resumo 🌳📊
-Projeto de backend para um site com a temática "desastres naturais e meio ambiente". A aplicação se baseia no padrão arquitetural REST e foi desenvolvida com a linguagem Java e o framework Spring Boot. Destaques do que já foi desenvolvido até agora:
+Protótipo de backend para um site com a temática "desastres naturais e meio ambiente". A aplicação se baseia no padrão arquitetural REST e foi desenvolvida com a linguagem Java e o framework Spring Boot. Destaques do que já foi desenvolvido até agora:
 - Integração a banco de dados MySQL
-- REST API endpoints
-- Operações CRUD das entidades
-- Operações de relacionamentos entre entidades
+- CRUD do sistema
+- Endpoints REST
 - Gerenciador de exceções global
 - Respostas JSON padronizadas
+- Validação básica de dados
 
 ## Respostas da API ↩️
 As respostas da API foram padronizadas conforme o exemplo abaixo:
